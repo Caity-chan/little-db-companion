@@ -1,0 +1,20 @@
+{
+  "name": "little-db-companion",
+  "version": "1.0.0",
+  "description": "api for the database server I'm making",
+  "main": "db-commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fal;kejdf;jawe"
+  },
+  "keywords": [
+    "database",
+    "server",
+    "api"
+  ],
+  "author": "Caitlin-chan",
+  "license": "ISC"
+}
